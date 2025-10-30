@@ -8,3 +8,10 @@ Praktikum Ke-1 Dasar State dengan Model-View
 
 Praktikum Ke-2 Mengelola Data Layer dengan InheritedWidget dan InheritedNotifier
 ![Screenshoot master_plan](images/02.png)
+
+Praktikum Ke-3 Membuat State di Multiple Screens
+![Screenshoot master_plan](images/03-1.png)
+![Screenshoot master_plan](images/03-2.png)
+![Screenshoot master_plan](images/03-3.png)
+![Screenshoot master_plan](images/03-4.png)
+![Screenshoot master_plan](images/03-5.png)
