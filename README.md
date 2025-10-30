@@ -2,16 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+Praktikum Ke-1 Dasar State dengan Model-View
+![Screenshoot master_plan](images/01-1.png)
+![Screenshoot master_plan](images/01-2.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# master_plan
+Praktikum Ke-2 Mengelola Data Layer dengan InheritedWidget dan InheritedNotifier
+![Screenshoot master_plan](images/02.png)
